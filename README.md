@@ -15,6 +15,7 @@ Generally, the project contains 4 parts:
     - This is an information about works in the form of slick slider.
 
 <br/>
+
 ## Technologies
 Technologies that are used in this template: </br>
 * ReactJS </br>
